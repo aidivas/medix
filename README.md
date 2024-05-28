@@ -143,7 +143,7 @@ You can also customize chatbot with different configuration
           textColor: '#303235',
           text: 'Powered by',
           company: 'Flowise',
-          companyLink: 'https://flowiseai.com'
+          companyLink: 'https://flowiseai.com',
         },
       },
     },
